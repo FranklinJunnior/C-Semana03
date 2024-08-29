@@ -13,4 +13,4 @@ clear
 sleep 1
 
 # Ejecutar el contenedor en el puerto 8080
-docker run -d -p 5000:5000 --name tutorial02 blazor-app
+docker run -d -p 5000:5000 --name semana03 blazor-app
